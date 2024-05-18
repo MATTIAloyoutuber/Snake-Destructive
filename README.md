@@ -9,7 +9,7 @@ Spero che vi piaccia (era destinato ad nFire uno YouTuber italiano malware teste
 
 I can't upload the file to Github due to the weight
 Here is the link https://mega.nz/folder/FMYRUQjL#UE1WzESBSBpsYdeQjG5BkA
-Nice thing this is Snake Destructiva.exe is written in python, it is a malware that is based on Snake.
+Hi guys this is Snake Destructiva.exe is written in python, it is a malware that is based on Snake.
 I AM NOT RESPONSIBLE FOR ANY DAMAGES.
 RUN Snake.exe on the folder DO NOT MOVE IT on the Desktop, it was written by ÆØS https://www.youtube.com/@AE0S04  https://www.youtube.com/@vadolenta77 (has two YouTube channels) and by me.
 I won't show the source code because I don't want it to be skidded.
